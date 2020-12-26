@@ -1,2 +1,2 @@
-# rona-analytics-NLP_summarizer
+# rona-analytics-nlp-summarizer
 NLP to summary youtube transcripts 
